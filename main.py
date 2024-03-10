@@ -1,6 +1,7 @@
 # Aluno: Gabriel Silva Lima
 # entrega da fase 1 da disciplina de Lógica e Programação de Computadores
 # repositório: https://github.com/gabriellimma/pucrs-wheater-data-calculator
+# link do colab: https://colab.research.google.com/drive/11FFIZLV5jrQ72Qvia_wgqWPJMNAaCRAL?usp=sharing
 
 def ler_temperaturas():
     """função que popula uma index com um valor através da leitura
